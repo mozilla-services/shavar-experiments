@@ -1,2 +1,250 @@
 {
+    "rte.ie": {
+        "properties": ["rte.ie"],
+        "resources": ["2mdn.net"]
+    },
+    "3news.co.nz": {
+        "properties": ["3news.co.nz"],
+        "resources": ["2mdn.net"]
+    },
+    "49ers.com": {
+        "properties": ["49ers.com"],
+        "resources": ["2mdn.net"]
+    },
+    "atlantafalcons.com": {
+        "properties": ["atlantafalcons.com"],
+        "resources": ["2mdn.net"]
+    },
+    "azcardinals.com": {
+        "properties": ["azcardinals.com"],
+        "resources": ["2mdn.net"]
+    },
+    "baltimoreravens.com": {
+        "properties": ["baltimoreravens.com"],
+        "resources": ["2mdn.net"]
+    },
+    "buccaneers.com": {
+        "properties": ["buccaneers.com"],
+        "resources": ["2mdn.net"]
+    },
+    "buffalobills.com": {
+        "properties": ["buffalobills.com"],
+        "resources": ["2mdn.net"]
+    },
+    "chargers.com": {
+        "properties": ["chargers.com"],
+        "resources": ["2mdn.net"]
+    },
+    "chicagobears.com": {
+        "properties": ["chicagobears.com"],
+        "resources": ["2mdn.net"]
+    },
+    "clevelandbrowns.com": {
+        "properties": ["clevelandbrowns.com"],
+        "resources": ["2mdn.net"]
+    },
+    "colts.com": {
+        "properties": ["colts.com"],
+        "resources": ["2mdn.net"]
+    },
+    "dallascowboys.com": {
+        "properties": ["dallascowboys.com"],
+        "resources": ["2mdn.net"]
+    },
+    "denverbroncos.com": {
+        "properties": ["denverbroncos.com"],
+        "resources": ["2mdn.net"]
+    },
+    "detroitlions.com": {
+        "properties": ["detroitlions.com"],
+        "resources": ["2mdn.net"]
+    },
+    "egirlgames.net": {
+        "properties": ["egirlgames.net"],
+        "resources": ["2mdn.net"]
+    },
+    "euronews.com": {
+        "properties": ["euronews.com"],
+        "resources": ["2mdn.net"]
+    },
+    "giants.com": {
+        "properties": ["giants.com"],
+        "resources": ["2mdn.net"]
+    },
+    "globaltv.com": {
+        "properties": ["globaltv.com"],
+        "resources": ["2mdn.net"]
+    },
+    "houstontexans.com": {
+        "properties": ["houstontexans.com"],
+        "resources": ["2mdn.net"]
+    },
+    "jaguars.com": {
+        "properties": ["jaguars.com"],
+        "resources": ["2mdn.net"]
+    },
+    "kcchiefs.com": {
+        "properties": ["kcchiefs.com"],
+        "resources": ["2mdn.net"]
+    },
+    "ktvu.com": {
+        "properties": ["ktvu.com"],
+        "resources": ["2mdn.net"]
+    },
+    "miamidolphins.com": {
+        "properties": ["miamidolphins.com"],
+        "resources": ["2mdn.net"]
+    },
+    "neworleanssaints.com": {
+        "properties": ["neworleanssaints.com"],
+        "resources": ["2mdn.net"]
+    },
+    "newyorkjets.com": {
+        "properties": ["newyorkjets.com"],
+        "resources": ["2mdn.net"]
+    },
+    "packers.com": {
+        "properties": ["packers.com"],
+        "resources": ["2mdn.net"]
+    },
+    "panthers.com": {
+        "properties": ["panthers.com"],
+        "resources": ["2mdn.net"]
+    },
+    "patriots.com": {
+        "properties": ["patriots.com"],
+        "resources": ["2mdn.net"]
+    },
+    "philadelphiaeagles.com": {
+        "properties": ["philadelphiaeagles.com"],
+        "resources": ["2mdn.net"]
+    },
+    "raiders.com": {
+        "properties": ["raiders.com"],
+        "resources": ["2mdn.net"]
+    },
+    "redskins.com": {
+        "properties": ["redskins.com"],
+        "resources": ["2mdn.net"]
+    },
+    "seahawks.com": {
+        "properties": ["seahawks.com"],
+        "resources": ["2mdn.net"]
+    },
+    "steelers.com": {
+        "properties": ["steelers.com"],
+        "resources": ["2mdn.net"]
+    },
+    "stlouisrams.com": {
+        "properties": ["stlouisrams.com"],
+        "resources": ["2mdn.net"]
+    },
+    "thecomedynetwork.ca": {
+        "properties": ["thecomedynetwork.ca"],
+        "resources": ["2mdn.net"]
+    },
+    "titansonline.com": {
+        "properties": ["titansonline.com"],
+        "resources": ["2mdn.net"]
+    },
+    "vikings.com": {
+        "properties": ["vikings.com"],
+        "resources": ["2mdn.net"]
+    },
+    "wpcomwidgets.com": {
+        "properties": ["wpcomwidgets.com"],
+        "resources": ["2mdn.net"]
+    },
+    "cbc.ca": {
+        "properties": ["cbc.ca"],
+        "resources": ["2mdn.net"]
+    },
+    "jabong.com": {
+        "properties": ["jabong.com"],
+        "resources": ["2mdn.net"]
+    },
+    "twitch.tv": {
+        "properties": ["twitch.tv"],
+        "resources": ["2mdn.net"]
+    },
+    "convert-me.com": {
+        "properties": ["convert-me.com"],
+        "resources": ["2mdn.net"]
+    },
+    "investopedia.com": {
+        "properties": ["investopedia.com"],
+        "resources": ["2mdn.net"]
+    },
+    "doubleclick.net": {
+        "properties": ["doubleclick.net"],
+        "resources": ["2mdn.net"]
+    },
+    "grammarist.com": {
+        "properties": ["grammarist.com"],
+        "resources": ["2mdn.net"]
+    },
+    "britishgas.co.uk": {
+        "properties": ["britishgas.co.uk"],
+        "resources": ["s0.2mdn.net"]
+    },
+    "luxurylink.com": {
+        "properties": ["luxurylink.com"],
+        "resources": ["s0.2mdn.net"]
+    },
+    "antena3.com": {
+        "properties": ["antena3.com"],
+        "resources": ["2mdn.net"]
+    },
+    "atresmedia.com": {
+        "properties": ["atresmedia.com"],
+        "resources": ["2mdn.net"]
+    },
+    "atresplayer.com": {
+        "properties": ["atresplayer.com"],
+        "resources": ["2mdn.net"]
+    },
+    "lasexta.com": {
+        "properties": ["lasexta.com"],
+        "resources": ["2mdn.net"]
+    },
+    "majorleaguegaming.com": {
+        "properties": ["majorleaguegaming.com"],
+        "resources": ["2mdn.net"]
+    },
+    "dafiti.cl": {
+        "properties": ["dafiti.cl"],
+        "resources": ["2mdn.net"]
+    },
+    "dafiti.com.ar": {
+        "properties": ["dafiti.com.ar"],
+        "resources": ["2mdn.net"]
+    },
+    "dafiti.com.br": {
+        "properties": ["dafiti.com.br"],
+        "resources": ["2mdn.net"]
+    },
+    "dafiti.com.co": {
+        "properties": ["dafiti.com.co"],
+        "resources": ["2mdn.net"]
+    },
+    "kbb.com": {
+        "properties": ["kbb.com"],
+        "resources": ["2mdn.net"]
+    },
+    "cnet.com": {
+        "properties": ["cnet.com"],
+        "resources": ["s0.2mdn.net"]
+    },
+    "nfl.com": {
+        "properties": ["nfl.com"],
+        "resources": ["s0.2mdn.net"]
+    },
+    "wistv.com": {
+        "properties": ["wistv.com"],
+        "resources": ["s0.2mdn.net"]
+    },
+    "wsmv.com": {
+        "properties": ["wsmv.com"],
+        "resources": ["s0.2mdn.net"]
+    }
 }

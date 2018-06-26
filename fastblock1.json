@@ -773,7 +773,6 @@
         "Adobe": {
           "http://www.adobe.com/": [
             "2o7.net",
-            "auditude.com",
             "demdex.com",
             "demdex.net",
             "dmtracker.com",
@@ -1456,7 +1455,6 @@
         "BrightTag": {
           "http://www.brighttag.com/": [
             "brighttag.com",
-            "btstatic.com",
             "thebrighttag.com"
           ]
         }
@@ -1535,13 +1533,6 @@
         "CBproADS": {
           "http://www.cbproads.com/": [
             "cbproads.com"
-          ]
-        }
-      },
-      {
-        "CONTAXE": {
-          "http://www.contaxe.com/": [
-            "contaxe.com"
           ]
         }
       },
@@ -3044,13 +3035,6 @@
         }
       },
       {
-        "InvestingChannel": {
-          "http://investingchannel.com/": [
-            "investingchannel.com"
-          ]
-        }
-      },
-      {
         "Jaroop": {
           "http://www.jaroop.com/": [
             "jaroop.com"
@@ -3247,13 +3231,6 @@
         }
       },
       {
-        "Levexis": {
-          "http://www.levexis.com/": [
-            "levexis.com"
-          ]
-        }
-      },
-      {
         "Lexos Media": {
           "http://www.lexosmedia.com/": [
             "adbull.com",
@@ -3348,13 +3325,6 @@
         "Lower My Bills": {
           "http://lowermybills.com": [
             "lowermybills.com"
-          ]
-        }
-      },
-      {
-        "LucidMedia": {
-          "http://www.lucidmedia.com/": [
-            "lucidmedia.com"
           ]
         }
       },
@@ -3486,14 +3456,6 @@
           "http://www.matomy.com/": [
             "adsmarket.com",
             "matomy.com"
-          ]
-        }
-      },
-      {
-        "MaxBounty": {
-          "http://www.maxbounty.com/": [
-            "maxbounty.com",
-            "mb01.com"
           ]
         }
       },
@@ -4434,8 +4396,7 @@
       {
         "Quantcast": {
           "http://www.quantcast.com/": [
-            "quantcast.com",
-            "quantserve.com"
+            "quantcast.com"
           ]
         }
       },
@@ -5425,7 +5386,6 @@
         "ValueClick": {
           "http://www.valueclick.com/": [
             "adserver.com",
-            "dotomi.com",
             "dtmpub.com",
             "emjcd.com",
             "fastclick.com",
@@ -5462,13 +5422,6 @@
           "http://www.vdopia.com/": [
             "ivdopia.com",
             "vdopia.com"
-          ]
-        }
-      },
-      {
-        "Veeseo": {
-          "http://veeseo.com": [
-            "veeseo.com"
           ]
         }
       },
@@ -8943,15 +8896,13 @@
             "googleadservices.com",
             "googlemail.com",
             "googlesyndication.com",
-            "googletagservices.com",
             "invitemedia.com",
             "orkut.com",
             "postrank.com",
             "smtad.net",
             "teracent.com",
             "teracent.net",
-            "ytsa.net",
-            "googletagmanager.com"
+            "ytsa.net"
           ]
         }
       },

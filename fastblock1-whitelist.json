@@ -1,2 +1,10 @@
 {
+    "bloomberg.com": {
+        "properties": ["bloomberg.com"],
+        "resources": ["static.doubleclick.net", "g.doubleclick.net", "googleads.g.doubleclick.net", "s0.2mdn.net", "securepubads.g.doubleclick.net", "doubleclick.net"]
+    },
+    "cnet.com": {
+        "properties": ["cnet.com"],
+        "resources": ["static.doubleclick.net", "g.doubleclick.net", "googleads.g.doubleclick.net", "s0.2mdn.net", "securepubads.g.doubleclick.net", "doubleclick.net"]
+    }
 }

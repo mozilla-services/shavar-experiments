@@ -112,8 +112,6 @@
         "AOL": {
           "http://www.aol.com/": [
             "adsonar.com",
-            "advertising.com",
-            "atwola.com",
             "leadback.com",
             "tacoda.net",
             "adtechjp.com"
@@ -1191,7 +1189,6 @@
         "AudienceScience": {
           "http://www.audiencescience.com/": [
             "audiencescience.com",
-            "revsci.net",
             "targetingmarketplace.com",
             "wunderloop.net"
           ]
@@ -1454,8 +1451,7 @@
       {
         "BrightTag": {
           "http://www.brighttag.com/": [
-            "brighttag.com",
-            "thebrighttag.com"
+            "brighttag.com"
           ]
         }
       },
@@ -2166,13 +2162,6 @@
         }
       },
       {
-        "DynamicYield": {
-          "https://www.dynamicyield.com/": [
-            "dynamicyield.com"
-          ]
-        }
-      },
-      {
         "EQ Ads": {
           "http://www.eqads.com/": [
             "eqads.com"
@@ -2248,13 +2237,6 @@
         }
       },
       {
-        "Ensighten": {
-          "http://www.ensighten.com/": [
-            "ensighten.com"
-          ]
-        }
-      },
-      {
         "Entireweb": {
           "http://www.entireweb.com/": [
             "entireweb.com"
@@ -2313,7 +2295,6 @@
       {
         "Evidon": {
           "http://www.evidon.com/": [
-            "betrad.com",
             "evidon.com"
           ]
         }
@@ -2638,7 +2619,6 @@
       {
         "GetGlue": {
           "http://getglue.com/": [
-            "getglue.com",
             "smrtlnks.com"
           ]
         }
@@ -3287,8 +3267,7 @@
       {
         "LiveInternet": {
           "http://www.liveinternet.ru": [
-            "liveinternet.ru",
-            "yadro.ru"
+            "liveinternet.ru"
           ]
         }
       },
@@ -3418,14 +3397,6 @@
         }
       },
       {
-        "Marketo": {
-          "http://www.marketo.com/": [
-            "marketo.com",
-            "marketo.net"
-          ]
-        }
-      },
-      {
         "Martini Media": {
           "http://martinimedianetwork.com/": [
             "martiniadnetwork.com",
@@ -3456,6 +3427,13 @@
           "http://www.matomy.com/": [
             "adsmarket.com",
             "matomy.com"
+          ]
+        }
+      },
+      {
+        "MaxBounty": {
+          "http://www.maxbounty.com/": [
+            "maxbounty.com"
           ]
         }
       },
@@ -3906,7 +3884,6 @@
       {
         "Nielsen": {
           "http://www.nielsen.com/": [
-            "imrworldwide.com",
             "imrworldwide.net"
           ]
         }
@@ -4186,8 +4163,7 @@
       {
         "Pictela": {
           "http://www.pictela.com/": [
-            "pictela.com",
-            "pictela.net"
+            "pictela.com"
           ]
         }
       },
@@ -4206,13 +4182,6 @@
         }
       },
       {
-        "Po.st": {
-          "http://www.po.st/": [
-            "po.st"
-          ]
-        }
-      },
-      {
         "PocketCents": {
           "http://pocketcents.com/": [
             "pocketcents.com"
@@ -4222,8 +4191,7 @@
       {
         "Polar Mobile": {
           "http://polarmobile.com": [
-            "polarmobile.com",
-            "mediavoice.com"
+            "polarmobile.com"
           ]
         }
       },
@@ -4379,7 +4347,6 @@
           "http://www.i-behavior.com/": [
             "i-behavior.com",
             "iaded.com",
-            "quisma.com",
             "quismatch.com",
             "xaded.com",
             "xmladed.com"
@@ -4390,13 +4357,6 @@
         "Quake Marketing": {
           "http://quakemarketing.com/": [
             "quakemarketing.com"
-          ]
-        }
-      },
-      {
-        "Quantcast": {
-          "http://www.quantcast.com/": [
-            "quantcast.com"
           ]
         }
       },
@@ -4832,13 +4792,6 @@
         "Space Chimp Media": {
           "http://spacechimpmedia.com/": [
             "spacechimpmedia.com"
-          ]
-        }
-      },
-      {
-        "Spark Studios": {
-          "http://www.sparkstudios.com/": [
-            "sparkstudios.com"
           ]
         }
       },
@@ -5518,13 +5471,6 @@
         }
       },
       {
-        "Vizu": {
-          "http://www.vizu.com/": [
-            "vizu.com"
-          ]
-        }
-      },
-      {
         "Vizury": {
           "http://www.vizury.com/": [
             "vizury.com"
@@ -5542,7 +5488,6 @@
       {
         "WPP": {
           "http://www.wpp.com/": [
-            "247realmedia.com",
             "accelerator-media.com",
             "acceleratorusa.com",
             "decdna.net",
@@ -5554,7 +5499,6 @@
             "mindshare.nl",
             "mookie1.com",
             "pm14.com",
-            "realmedia.com",
             "targ.ad",
             "themig.com",
             "wpp.com",
@@ -5715,7 +5659,6 @@
             "moikrug.ru",
             "yandex.com",
             "yandex.ru",
-            "yandex.st",
             "yandex.ua",
             "yandex.com.tr",
             "yandex.by"
@@ -7900,7 +7843,6 @@
       {
         "Go Daddy": {
           "http://www.godaddy.com/": [
-            "godaddy.com",
             "trafficfacts.com"
           ]
         }
@@ -7974,9 +7916,7 @@
       {
         "INFOnline": {
           "https://www.infonline.de/": [
-            "infonline.de",
-            "ivwbox.de",
-            "ioam.de"
+            "infonline.de"
           ]
         }
       },
@@ -8125,21 +8065,6 @@
         }
       },
       {
-        "Mixpanel": {
-          "https://mixpanel.com/": [
-            "mixpanel.com",
-            "mxpnl.com"
-          ]
-        }
-      },
-      {
-        "Mongoose Metrics": {
-          "http://www.mongoosemetrics.com/": [
-            "mongoosemetrics.com"
-          ]
-        }
-      },
-      {
         "Monitus": {
           "http://www.monitus.net/": [
             "monitus.net"
@@ -8209,7 +8134,6 @@
       {
         "Nielsen": {
           "http://www.nielsen.com/": [
-            "glanceguide.com",
             "nielsen.com"
           ]
         }
@@ -8567,8 +8491,7 @@
       {
         "Webtrekk": {
           "http://www.webtrekk.com/": [
-            "webtrekk.com",
-            "webtrekk.net"
+            "webtrekk.com"
           ]
         }
       },
@@ -8605,13 +8528,6 @@
         }
       },
       {
-        "Yahoo!": {
-          "http://www.yahoo.com/": [
-            "analytics.yahoo.com"
-          ]
-        }
-      },
-      {
         "YellowTracker": {
           "http://www.yellowtracker.com/": [
             "yellowtracker.com"
@@ -8631,7 +8547,6 @@
           "http://www.comscore.com/": [
             "certifica.com",
             "comscore.com",
-            "scorecardresearch.com",
             "sitestat.com",
             "voicefive.com",
             "mdotlabs.com"
@@ -8735,9 +8650,6 @@
       {
         "AddThis": {
           "http://www.addthis.com/": [
-            "addthis.com",
-            "addthiscdn.com",
-            "addthisedge.com",
             "clearspring.com",
             "connectedads.net",
             "xgraph.com",
@@ -8795,13 +8707,6 @@
         "Papaya": {
           "http://papayamobile.com/": [
             "papayamobile.com"
-          ]
-        }
-      },
-      {
-        "ShareThis": {
-          "http://sharethis.com/": [
-            "sharethis.com"
           ]
         }
       },
@@ -8867,7 +8772,6 @@
             "facebook.com",
             "facebook.de",
             "facebook.fr",
-            "facebook.net",
             "fb.com",
             "atlassolutions.com",
             "friendfeed.com"
@@ -8883,9 +8787,7 @@
             "cc-dt.com",
             "destinationurl.com",
             "developers.google.com",
-            "doubleclick.net",
             "gmail.com",
-            "google-analytics.com",
             "adwords.google.com",
             "mail.google.com",
             "inbox.google.com",
@@ -8893,9 +8795,7 @@
             "plusone.google.com",
             "voice.google.com",
             "wave.google.com",
-            "googleadservices.com",
             "googlemail.com",
-            "googlesyndication.com",
             "invitemedia.com",
             "orkut.com",
             "postrank.com",

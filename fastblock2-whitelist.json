@@ -1,4 +1,8 @@
 {
+    "Test entry - do not remove!": {
+        "properties": ["mozilla.github.io"],
+        "resources": ["itisatracker.org"]
+    },
     "rte.ie": {
         "properties": ["rte.ie"],
         "resources": ["2mdn.net"]

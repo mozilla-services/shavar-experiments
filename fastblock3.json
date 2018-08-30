@@ -19,7 +19,6 @@
       {
         "365Media": {
           "http://365media.com/": [
-            "365dm.com",
             "365media.com"
           ]
         }
@@ -130,8 +129,7 @@
       {
         "AT&T": {
           "http://www.att.com/": [
-            "att.com",
-            "yp.com"
+            "att.com"
           ]
         }
       },
@@ -1409,7 +1407,6 @@
       {
         "BlueKai": {
           "http://www.bluekai.com/": [
-            "bkrtx.com",
             "bluekai.com",
             "tracksimple.com"
           ]
@@ -1632,7 +1629,6 @@
       {
         "ChannelAdvisor": {
           "http://www.channeladvisor.com/": [
-            "channeladvisor.com",
             "searchmarketing.com"
           ]
         }
@@ -2086,7 +2082,6 @@
       {
         "Digital River": {
           "http://www.digitalriver.com/": [
-            "digitalriver.com",
             "keywordmax.com",
             "netflame.cc"
           ]
@@ -2322,8 +2317,7 @@
       {
         "Evidon": {
           "http://www.evidon.com/": [
-            "betrad.com",
-            "evidon.com"
+            "betrad.com"
           ]
         }
       },
@@ -3450,7 +3444,6 @@
       {
         "Marketo": {
           "http://www.marketo.com/": [
-            "marketo.com",
             "marketo.net"
           ]
         }
@@ -3914,8 +3907,7 @@
       {
         "Neustar": {
           "http://www.neustar.biz/": [
-            "adadvisor.net",
-            "neustar.biz"
+            "adadvisor.net"
           ]
         }
       },
@@ -4167,13 +4159,6 @@
         "Paid-To-Promote.net": {
           "http://www.paid-to-promote.net/": [
             "paid-to-promote.net"
-          ]
-        }
-      },
-      {
-        "Pardot": {
-          "http://www.pardot.com/": [
-            "pardot.com"
           ]
         }
       },
@@ -4627,13 +4612,6 @@
             "rnmd.net",
             "1rx.io",
             "rhythmone.com"
-          ]
-        }
-      },
-      {
-        "RichRelevance": {
-          "http://www.richrelevance.com/": [
-            "richrelevance.com"
           ]
         }
       },
@@ -5589,7 +5567,6 @@
       {
         "WPP": {
           "http://www.wpp.com/": [
-            "247realmedia.com",
             "accelerator-media.com",
             "acceleratorusa.com",
             "decdna.net",
@@ -5761,8 +5738,6 @@
             "web-visor.com",
             "moikrug.ru",
             "yandex.com",
-            "yandex.ru",
-            "yandex.st",
             "yandex.ua",
             "yandex.com.tr",
             "yandex.by"
@@ -6636,7 +6611,6 @@
           "http://www.facebook.com/": [
             "akamaihd.net",
             "instagram.com",
-            "fbcdn.net",
             "messenger.com"
           ]
         }
@@ -7590,13 +7564,6 @@
         }
       },
       {
-        "Adobe": {
-          "http://www.adobe.com/": [
-            "adobedtm.com"
-          ]
-        }
-      },
-      {
         "Adventori": {
           "https://adventori.com": [
             "adventori.com"
@@ -7628,13 +7595,6 @@
         "Attracta": {
           "https://www.attracta.com/": [
             "attracta.com"
-          ]
-        }
-      },
-      {
-        "Automattic": {
-          "http://automattic.com/": [
-            "polldaddy.com"
           ]
         }
       },
@@ -8782,7 +8742,6 @@
       {
         "AddThis": {
           "http://www.addthis.com/": [
-            "addthis.com",
             "addthiscdn.com",
             "addthisedge.com",
             "clearspring.com",
@@ -8846,13 +8805,6 @@
         }
       },
       {
-        "ShareThis": {
-          "http://sharethis.com/": [
-            "sharethis.com"
-          ]
-        }
-      },
-      {
         "Shareaholic": {
           "http://www.shareaholic.com/": [
             "buzzster.com",
@@ -8871,7 +8823,6 @@
       {
         "VKontakte": {
           "http://vk.com/": [
-            "userapi.com",
             "vk.com",
             "vkontakte.ru"
           ]
@@ -8898,23 +8849,14 @@
             "ymail.com"
           ]
         }
-      },
-      {
-        "reddit": {
-          "http://www.reddit.com/": [
-            "reddit.com"
-          ]
-        }
       }
     ],
     "Disconnect": [
       {
         "Facebook": {
           "http://www.facebook.com/": [
-            "facebook.com",
             "facebook.de",
             "facebook.fr",
-            "facebook.net",
             "fb.com",
             "atlassolutions.com",
             "friendfeed.com"
@@ -8924,15 +8866,12 @@
       {
         "Google": {
           "http://www.google.com/": [
-            "2mdn.net",
             "admeld.com",
             "admob.com",
             "cc-dt.com",
             "destinationurl.com",
             "developers.google.com",
-            "doubleclick.net",
             "gmail.com",
-            "google-analytics.com",
             "adwords.google.com",
             "mail.google.com",
             "inbox.google.com",
@@ -8943,15 +8882,13 @@
             "googleadservices.com",
             "googlemail.com",
             "googlesyndication.com",
-            "googletagservices.com",
             "invitemedia.com",
             "orkut.com",
             "postrank.com",
             "smtad.net",
             "teracent.com",
             "teracent.net",
-            "ytsa.net",
-            "googletagmanager.com"
+            "ytsa.net"
           ]
         }
       },
@@ -8961,7 +8898,6 @@
             "backtype.com",
             "crashlytics.com",
             "tweetdeck.com",
-            "twitter.com",
             "twitter.jp"
           ]
         }

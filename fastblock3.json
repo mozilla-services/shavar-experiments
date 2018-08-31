@@ -1056,7 +1056,6 @@
       {
         "Amazon.com": {
           "http://www.amazon.com/": [
-            "amazon-adsystem.com",
             "amazon.ca",
             "amazon.co.jp",
             "amazon.co.uk",
@@ -8102,8 +8101,7 @@
       {
         "MarkMonitor": {
           "https://www.markmonitor.com": [
-            "markmonitor.com",
-            "9c9media.ca"
+            "markmonitor.com"
           ]
         }
       },
